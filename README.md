@@ -3,9 +3,9 @@ PowerBi Dashboard based on Retail Data ( french data )
 
 the dashboard created using Retail data ( France ) , the report contains 3 reports :
 
- # Summary ( sales , gross profit ).
+   1)Summary ( sales , gross profit ).
  
- # Sales Statistics by chain .
+   2)Sales Statistics by chain .
  
- # Sales Statistics by category .
+   3)Sales Statistics by category .
     
