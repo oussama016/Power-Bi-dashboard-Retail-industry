@@ -9,5 +9,3 @@ the dashboard created using Retail data ( France ) , the report contains 3 dashb
  
    3)Sales Statistics by category .
 
-
-*************this project is open source if u have any questions you can contact me ****************************** 
